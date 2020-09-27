@@ -6,7 +6,7 @@ Simple and accurate guide to elevate permission to NT AUTHORITY\SYSTEM
 - Basic System Enumeration
 - Finding clear text credentials
 - GPP (Group Policy Preference)
-- Secrets dump via SAM
+- Secrets dump via SAM (VHD Mounted Share)
 - Kernel Expliots
 - AlwaysInstallElevated 
 - RunAs with Saved Credentials
