@@ -11,8 +11,7 @@ Simple and accurate guide to elevate permission to NT AUTHORITY\SYSTEM
 - AlwaysInstallElevated
 - DNSAdmin DLL Injection
 - RunAs with Saved Credentials
-- BinPATH Service Re-Direct
+- BinPATH Service Re-Direct - Weak Permissions
 - USP (Unquoted Service Path)
-- Program Files with Weak Permissions
 - SeImpersonate / SeAssignPrimaryToken - Service Accounts
 - MSSQL via UDF User Defined Function
